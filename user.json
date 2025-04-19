@@ -1,11 +1,5 @@
-{
-  "admin": [
-    {
       "username": "demo",
       "password": "yourbcryptpass",
       "subscription": "aimkillapk",
       "device_id": "f8a41b216e056b31",
       "expiry": "2027-12-31"
-    }
-  ]
-}
