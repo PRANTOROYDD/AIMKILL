@@ -1,5 +1,7 @@
-      "username": "demo",
-      "password": "yourbcryptpass",
-      "subscription": "aimkillapk",
-      "device_id": "f8a41b216e056b31",
-      "expiry": "2027-12-31"
+{
+  "username": "jami",
+  "password": "$2a$12$Y4WwtSMuGvGwO9XHE2C4weotslmCEpbUID9LO1/gjIttw5G0l7OuK", 
+  "subscription": "aimkillapk",
+  "expiry": "2028-12-31",
+  "device_id": "f8a41b216e056b31"
+}
