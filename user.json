@@ -5,14 +5,14 @@
       "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N/3lBsWOe8R20NJ22CSOLWSafoBxz6",
       "subscription": "aimkillapk",
       "expiry": "2028-12-31",
-      "device_id": "f8a41b216e056b31"
+      "device_id": "5158f1be63d9d32f"
     },
     {
       "username": "pranto1",
       "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N/3lBsWOe8R20NJ22CSOLWSafoBxz6",
       "subscription": "tester",
       "expiry": "2026-01-01",
-      "device_id": "5158f1be63d9d32f"
+      "device_id": "f8a41b216e056b31"
     }
   ]
 }
