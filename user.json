@@ -1,7 +1,18 @@
 {
-  "username": "jami",
-  "password": "$2a$12$Y4WwtSMuGvGwO9XHE2C4weotslmCEpbUID9LO1/gjIttw5G0l7OuK", 
-  "subscription": "aimkillapk",
-  "expiry": "2028-12-31",
-  "device_id": "f8a41b216e056b31"
+  "admin": [
+    {
+      "username": "jami",
+      "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+      "subscription": "aimkillapk",
+      "expiry": "2028-12-31",
+      "device_id": "f8a41b216e056b31"
+    },
+    {
+      "username": "newuser",
+      "password": "$2a$12$....",  <-- bcrypt hash
+      "subscription": "tester",
+      "expiry": "2026-01-01",
+      "device_id": ""
+    }
+  ]
 }
