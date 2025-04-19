@@ -7,13 +7,13 @@
       "expiry": "2028-12-31",
       "device_id": "f8a41b216e056b31"
     },
-        {
+    {
       "username": "Pranto1",
       "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
       "subscription": "tester",
       "expiry": "2028-12-31",
       "device_id": "5158f1be63d9d32f"
-    }
+    },
     {
       "username": "Pranto",
       "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
