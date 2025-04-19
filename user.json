@@ -8,19 +8,10 @@
       "device_id": "f8a41b216e056b31"
     },
     {
-  "admin": [
-    {
       "username": "Pranto",
       "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
       "subscription": "aimkillapk",
       "expiry": "2028-12-31",
-      "device_id": "e442a96b537d818b"
-    },
-    {
-      "username": "Pranto",
-      "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
-      "subscription": "aimkillapk",
-      "expiry": "2028-02-31",
       "device_id": "e442a96b537d818b"
     }
   ]
