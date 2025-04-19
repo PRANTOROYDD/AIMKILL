@@ -9,7 +9,7 @@
     },
     {
       "username": "newuser",
-      "password": "$2a$12$....",  <-- bcrypt hash
+      "password": "$2a$12$....",
       "subscription": "tester",
       "expiry": "2026-01-01",
       "device_id": ""
