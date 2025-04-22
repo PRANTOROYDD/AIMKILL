@@ -20,6 +20,15 @@
             "subscription": "tester",
             "expiry": "2028-10-31",
             "device_id": "e442a96b537d818b"
+             },
+        {
+            "username": "PR",
+            "password": "$$2a$12$xZx30apzp5EHintRdVoRvePAcTl7EqAC5gjLIWshc3U0vBH3b8hpu",
+            "subscription": "aimkillapk",
+            "expiry": "2029-9-31",
+            "device_id": "7abd1e41ea4aa7c2"
+        },
+        
         }
     ]
 }
