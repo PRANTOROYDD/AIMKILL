@@ -23,10 +23,10 @@
         },
         {
             "username": "PR",
-            "password": "$2a$12$Biw8Yc5Qsf9HdjEzY9ERw.Ki/gDRXA0v50O6nSVS8RfWbQCdKIdJS",
+            "password": "$2a$12$Biw8Yc5Qsf9HdjEzY9ERw.Ki\/gDRXA0v50O6nSVS8RfWbQCdKIdJS",
             "subscription": "aimkillapk",
             "expiry": "2029-9-31",
-            "device_id": ""
+            "device_id": "7abd1e41ea4aa7c2"
         },
         {
             "username": "badmas",
