@@ -32,9 +32,9 @@
             "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
             "subscription": "tester",
             "expiry": "2028-10-31",
-            "device_id": ""
+            
         
         },
-        null
+        
     ]
 }
