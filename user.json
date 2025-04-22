@@ -27,6 +27,13 @@
             "subscription": "aimkillapk",
             "expiry": "2029-9-31",
             "device_id": "7abd1e41ea4aa7c2"
+      {
+            "username": "HYDRA",
+            "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
+            "subscription": "tester",
+            "expiry": "2028-10-31",
+            "device_id": ""
+        
         },
         null
     ]
