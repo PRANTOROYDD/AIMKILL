@@ -1,24 +1,17 @@
 {
     "admin": [
         {
-            "username": "ROHAN",
-            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
-            "subscription": "aimkillapk",
-            "expiry": "2025-07-22",
-            "device_id": ""
-        },
-        {
-            "username": "ROHAN",
+            "username": "testing hwid",
             "subscription": "active",
             "expiry": "2025-07-22",
             "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
             "package": "BASIC"
         },
         {
-            "username": "PRITAMX999",
-            "password": "$2y$12$9K\/YnxA6uNKzWKxBETWYW.Ytcbg\/Xzk.qawLB1ekmH6DwiJY66IA.",
-            "subscription": "aimkillapk",
-            "expiry": "2025-04-27",
+            "username": "jami",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "owner",
+            "expiry": "2029-04-27",
             "device_id": "",
             "free_user": false,
             "hwid": ""
