@@ -1,11 +1,43 @@
 {
     "admin": [
         {
-            "username": "myUsername",
+            "username": "user1",
+            "password": "$2a$12$nrjM7gvqq3Z75dCM2PgMJ.A8EpgXX2H9VS0WB2fQnKP1ZPYoWI14a",  // Hashed password
+            "subscription": "aimkillapk",
+            "device_id": "",
+            "expiry": "2025-12-31",
+            "free_user": false
+        },
+        {
+            "username": "user2",
+            "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
+            "subscription": "tester",
+            "device_id": "",
+            "expiry": "2025-12-31",
+            "free_user": false
+        },
+        {
+            "username": "user3",
+            "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
+            "subscription": "owner",
+            "device_id": "",
+            "expiry": "2025-12-31",
+            "free_user": false
+        },
+        {
+            "username": "user4",
             "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
             "subscription": "aimkillapk",
             "device_id": "",
-            "expiry": "2028-12-31",
+            "expiry": "2025-12-31",
+            "free_user": true
+        },
+        {
+            "username": "user5",
+            "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
+            "subscription": "aimkillapk",
+            "device_id": "",
+            "expiry": "2025-12-31",
             "free_user": false
         }
     ]
