@@ -1,7 +1,12 @@
 {
-    "username": "jami",
-    "password": "$2a$12$W8sSHI7fgyKABh0hPdl6yeB/og34sbg9X66O1gtYdO8b2Sje9u3xe",
-    "subscription": "active",
-    "expiry": "2026-07-22",
-    "device_id": ""
+    "admin": [
+        {
+            "username": "myUsername",
+            "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
+            "subscription": "aimkillapk",
+            "device_id": "",
+            "expiry": "2028-12-31",
+            "free_user": false
+        }
+    ]
 }
