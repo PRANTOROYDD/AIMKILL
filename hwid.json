@@ -20,7 +20,7 @@
             "subscription": "aimkillapk",
             "expiry": "2025-04-27",
             "device_id": "",
-            "free_user": true,
+            "free_user": false,
             "hwid": ""
         },
         {
