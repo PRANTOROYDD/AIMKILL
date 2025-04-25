@@ -2,10 +2,10 @@
     "admin": [
         {
             "username": "jami",
-            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
             "subscription": "aimkillapk",
             "expiry": "2028-8-31",
-            "device_id": ""
+            "device_id": "5ae549c3fde34e98"
         },
         {
             "username": "RXN",
@@ -756,5 +756,6 @@
             "expiry": "2026-4-26",
             "device_id": "a6264376c70b5dbd"
         },
+        null
     ]
 }
