@@ -1,12 +1,13 @@
 {
     "admin": [
-        {
-            "username": "jami",
-            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
-            "subscription": "active",
-            "expiry": "2026-07-22",
-            "device_id": ""
-        },
+{
+    "username": "jami",
+    "password": "$2a$12$W8sSHI7fgyKABh0hPdl6yeB/og34sbg9X66O1gtYdO8b2Sje9u3xe", 
+    "subscription": "active",
+    "expiry": "2026-07-22",
+    "device_id": ""
+}
+
         {
             "username": "ROHAN",
             "subscription": "active",
