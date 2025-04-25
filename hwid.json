@@ -2,10 +2,10 @@
     "admin": [
         {
             "username": "ROHAN",
-            "password": "$2y$12$R07j3oLjW2g7gkfPF7HEB.AC6r3RacIAMNGyawl1g6ZJjVJXyO\/tW",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
             "subscription": "aimkillapk",
             "expiry": "2025-07-22",
-            "device_id": "767ae7b3fa6f5fb4"
+            "device_id": ""
         },
         {
             "username": "ROHAN",
@@ -24,11 +24,11 @@
             "hwid": ""
         },
         {
-            "username": "Nexxa",
-            "password": "$2y$12$N62eRZ5hbfRTzT0AMJPbiuaGFJlQbKfKB1e4UhJeXL9f4euUwsxqy",
+            "username": "JAMI",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
             "subscription": "aimkillapk",
             "expiry": "2028-01-17",
-            "device_id": "bef385ea1ce73bbf"
+            "device_id": ""
         },
     ]
 }
