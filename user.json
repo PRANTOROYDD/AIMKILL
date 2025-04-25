@@ -20,7 +20,7 @@
             "username": "user3",
             "password": "$2a$12$4zvFbdcPT1OguJeX8yhfKu/gs8bpyfysbGzA1m7OaIu0t4.E5ZTq",
             "subscription": "owner",
-            "device_id": "",
+            "device_id": "5ae549c3fde34e98",
             "expiry": "2027-12-31",
             "free_user": false
         },
