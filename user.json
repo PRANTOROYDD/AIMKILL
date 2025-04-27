@@ -29,11 +29,18 @@
             "device_id": "f9ac867b689c3a13"
         },
         {
+            "username": "ADI",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2029-05-5",
+            "device_id": ""
+        },
+        {
             "username": "FREE",
             "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
             "subscription": "aimkillapk",
             "expiry": "2025-05-5",
-            "device_id": "a1fdeed739ab6a0b"
+            "device_id": ""
         },
         {
             "username": "FREE2",
