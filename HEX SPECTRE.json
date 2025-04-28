@@ -1,1 +1,45 @@
-
+{
+    "admin": [
+        {
+            "username": "testing hwid",
+            "subscription": "active",
+            "expiry": "2025-07-22",
+            "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
+            "package": "BASIC"
+        },
+        {
+            "username": "jerry",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2029-04-27",
+            "device_id": "5ae549c3fde34e98",
+            "free_user": false,
+            "hwid": ""
+        },
+        {
+            "username": "JERRY",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2029-04-27",
+            "device_id": "",
+            "free_user": false,
+            "hwid": ""
+        },
+        {
+            "username": "jami",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "owner",
+            "expiry": "2029-04-27",
+            "device_id": "",
+            "free_user": false,
+            "hwid": ""
+        },
+        {
+            "username": "JAMI",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2028-01-17",
+            "device_id": "5ae549c3fde34e98"
+        },
+    ]
+}
