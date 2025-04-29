@@ -1,1 +1,795 @@
-
+{
+    "admin": [
+        {
+            "username": "jami",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2028-8-31",
+            "device_id": "5ae549c3fde34e98"
+        },
+        {
+            "username": "JERRY",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-4-28",
+            "device_id": "95b34f75a4fa03a8"
+        },
+        {
+            "username": "jerry1",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-4-28",
+            "device_id": "d74f33e495babe61"
+        },
+        {
+            "username": "jerry0",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-5-2",
+            "device_id": "f9ac867b689c3a13"
+        },
+        {
+            "username": "ADI",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2029-05-5",
+            "device_id": "a1fdeed739ab6a0b"
+        },
+        {
+            "username": "FREE",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-05-5",
+            "device_id": "8d8888eac97e0d6b"
+        },
+                {
+            "username": "FEAR",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2029-05-5",
+            "device_id": ""
+        },
+        {
+            "username": "FREE2",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "5110e3696c0f1a51"
+        },
+        {
+            "username": "FREE3",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "abffa766e6063fac"
+        },
+        {
+            "username": "FREE4",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "a555cf9049566108"
+        },
+        {
+            "username": "FREE5",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "7e149de14edf5dab"
+        },
+        {
+            "username": "FREE6",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "3ed6b41a06061ef1"
+        },
+        {
+            "username": "FREE7",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "3f64793bc4f761ba"
+        },
+        {
+            "username": "FREE8",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE9",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "707f2146271e67d5"
+        },
+        {
+            "username": "FREE0",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE2",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE3",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE4",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE5",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE6",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE7",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE8",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE9",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE20",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "da2edd59df461b6f"
+        },
+        {
+            "username": "FREE2",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE22",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "42c9ddff29ccab56"
+        },
+        {
+            "username": "FREE23",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "e25b0949de163dc3"
+        },
+        {
+            "username": "FREE24",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "c1f893a6c1d47672"
+        },
+        {
+            "username": "FREE25",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "5f8dd9db49ec5571"
+        },
+        {
+            "username": "FREE26",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE27",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "93982ed5c2ba42c4"
+        },
+        {
+            "username": "FREE28",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "242068f540abc861"
+        },
+        {
+            "username": "FREE29",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE30",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "049f58db1a287552"
+        },
+        {
+            "username": "FREE3",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE32",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "0043917a59260ed7"
+        },
+        {
+            "username": "FREE33",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "4b16b608183c3d5b"
+        },
+        {
+            "username": "FREE34",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "a599b7d2f4418007"
+        },
+        {
+            "username": "FREE35",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "f22dbda83e3bae22"
+        },
+        {
+            "username": "FREE36",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "1774ca73eee0ff04"
+        },
+        {
+            "username": "FREE37",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "f21acbdbf130bafe"
+        },
+        {
+            "username": "FREE38",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE39",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "aa6df401b8266966"
+        },
+        {
+            "username": "FREE40",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE4",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE42",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE43",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "b2427ada9c7e159a"
+        },
+        {
+            "username": "FREE44",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "daf6ba24aec79c57"
+        },
+        {
+            "username": "FREE45",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "6daa76a9aa672063"
+        },
+        {
+            "username": "FREE46",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "eb7b10cbcf7aa39c"
+        },
+        {
+            "username": "FREE47",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "eb7b10cbcf7aa39c"
+        },
+        {
+            "username": "FREE48",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "2629ca7b0c59498b"
+        },
+        {
+            "username": "FREE49",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "b2427ada9c7e159a"
+        },
+        {
+            "username": "FREE50",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "d74f33e495babe61"
+        },
+        {
+            "username": "FREE5",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE52",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE53",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE54",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE55",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "2ffeacc99f1aaeea"
+        },
+        {
+            "username": "FREE55",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE56",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE57",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "38d4f00957d8214f"
+        },
+        {
+            "username": "FREE58",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE59",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE60",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE6",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE62",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "e1957feffca9b512"
+        },
+        {
+            "username": "FREE63",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "0353674556500212"
+        },
+        {
+            "username": "FREE64",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE65",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "9472181eafc9c535"
+        },
+        {
+            "username": "FREE66",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "526096391a43dbde"
+        },
+        {
+            "username": "FREE67",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "64ccfe8812cbdfb9"
+        },
+        {
+            "username": "FREE68",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE69",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "72fbaae4e61d17c0"
+        },
+        {
+            "username": "FREE70",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "fab775bf15692653"
+        },
+        {
+            "username": "FREE7",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE72",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "df8f7743e8bc6289"
+        },
+        {
+            "username": "FREE73",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE74",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE75",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE76",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE77",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE78",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "f9ac867b689c3a13"
+        },
+        {
+            "username": "FREE79",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE80",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "95b34f75a4fa03a8"
+        },
+        {
+            "username": "FREE8",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE82",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "aec3839934f739ac"
+        },
+        {
+            "username": "FREE83",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "aec3839934f739ac"
+        },
+        {
+            "username": "FREE84",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE85",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "21d828c2ad6f314c"
+        },
+        {
+            "username": "FREE86",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "7e149de14edf5dab"
+        },
+        {
+            "username": "FREE87",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "aec3839934f739ac"
+        },
+        {
+            "username": "FREE88",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "aec3839934f739ac"
+        },
+        {
+            "username": "FREE89",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE90",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "83707a5c51ca2087"
+        },
+        {
+            "username": "FREE9",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE92",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE93",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE94",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE95",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE96",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE97",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE98",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "FREE99",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": "962b934c4d1573ec"
+        },
+        {
+            "username": "FREE100",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
+        },
+        {
+            "username": "RXN",
+            "password": "$2a$12$HSGYbkKzJ7tyFaX8RGc3Me0N\/3lBsWOe8R20NJ22CSOLWSafoBxz6",
+            "subscription": "owner",
+            "expiry": "2028-8-31",
+            "device_id": "daa1d10ec0a9b021"
+        },
+        {
+            "username": "pranto",
+            "password": "$2a$12$s6xSExbiMoqfIuHVRxfYsOFmqL\/Q8t7bizSUmGudpt5vKDvMajaNq",
+            "subscription": "aimkillapk",
+            "expiry": "2028-9-31",
+            "device_id": "7abd1e41ea4aa7c2"
+        },
+        {
+            "username": "RAT",
+            "password": "$2a$12$eCn1TMz2Evl2hhx9BvKpjuBn0aEi5tksNzU6ZPHRNyCFa6XCcEOxS",
+            "subscription": "tester",
+            "expiry": "2028-10-31",
+            "device_id": "ee34d4145221769c"
+        },
+        {
+            "username": "HYDRA",
+            "password": "$2a$12$Biw8Yc5Qsf9HdjEzY9ERw.Ki\/gDRXA0v50O6nSVS8RfWbQCdKIdJS",
+            "subscription": "aimkillapk",
+            "expiry": "2029-9-31",
+            "device_id": ""
+        },
+        {
+            "username": "RTX",
+            "password": "$2a$12$JT5tX3tP8\/Bn20uus7NnVeUAYe1Ol3C1SG5dFjgvUNgdpfH\/vH07K",
+            "subscription": "aimkillapk",
+            "expiry": "2025-4-24",
+            "device_id": "00052d6b8c478119"
+        },
+        {
+            "username": "SUBHO",
+            "password": "$2a$12$JT5tX3tP8\/Bn20uus7NnVeUAYe1Ol3C1SG5dFjgvUNgdpfH\/vH07K",
+            "subscription": "aimkillapk",
+            "expiry": "2026-4-26",
+            "device_id": "a6264376c70b5dbd"
+        },
+    ]
+}
